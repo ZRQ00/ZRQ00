@@ -14,7 +14,3 @@ Building web apps with LLM integration.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,git,linux,vercel,pytorch,sklearn&perline=9" alt="Tech stack icons continued" />
 
 Also working with: React Native, pgvector, LangChain, Ollama, RAG, Gemini API, NumPy, pandas, REST APIs
-
-### GitHub Stats
-
-<img src="https://streak-stats.demolab.com/?user=ZRQ00&theme=dark&hide_border=true" alt="GitHub streak stats" />
